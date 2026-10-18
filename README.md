@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Quiz: A Reforma Protestante (Aula 1)</title>
+<title>Quiz: A Reforma Protestante </title>
 <style>
 :root{--bg:#f4f6fa;--surface:#fff;--ink:#14213d;--muted:#5a6478;--line:#d5dbe8;--accent:#2f4b9c;--accent-ink:#fff;--ok:#1e7f4f;--ok-bg:#e3f4ea;--bad:#b23a48;--bad-bg:#fbe7ea;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1626;--surface:#182036;--ink:#e8ecf5;--muted:#a3adc2;--line:#2b3654;--accent:#8fa8ff;--accent-ink:#0f1626;--ok:#6fd49b;--ok-bg:#16301f;--bad:#ff8d9a;--bad-bg:#3a1b22;color-scheme:dark}}
@@ -38,7 +38,7 @@ h1{font:700 26px/1.25 Georgia,"Times New Roman",serif;margin:0 0 6px}
 <body>
 <main>
 <h1>A Reforma Protestante</h1>
-<p class="sub">Quiz da aula 1 · 12 perguntas</p>
+<p class="sub">Quiz sobre a aula · 12 perguntas</p>
 <div id="quiz">
   <div class="bar"><i id="fill"></i></div>
   <p class="count" id="count"></p>
